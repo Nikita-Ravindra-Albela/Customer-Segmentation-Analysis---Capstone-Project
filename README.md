@@ -60,12 +60,12 @@ Provides a data-driven roadmap for long-term growth and customer lifetime value 
  ┗ 📁 Data          
 
 
-🔗 Connect with Me - nikitaalbela31@gmail.com
+🔗 Connect with Me 
 
-👩‍🎓 Nikita Albela - https://lnkd.in/dqiAfxPJ
+👩‍🎓 Nikita Albela 
 
 💼 LinkedIn - www.linkedin.com/in/nikita-albela-4194b1164
 
-📂 Portfolio
+📂 Portfolio - https://lnkd.in/dqiAfxPJ
 
 📧 Email: nikitaalbela31@gmail.com
