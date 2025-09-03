@@ -2,7 +2,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📌 Project Overview
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-This project was completed as part of my MBA in HR & Business Analytics. It focuses on Customer Segmentation Analysis, a powerful technique to understand customer behavior, identify high-value groups, and enable data-driven business strategies.
+This project was completed as part of my intership and MBA in HR & Business Analytics. It focuses on Customer Segmentation Analysis, a powerful technique to understand customer behavior, identify high-value groups, and enable data-driven business strategies.
 
 Using Power BI and DAX, I built an interactive dashboard that delivers actionable insights to support customer retention, targeted marketing, and revenue growth.
 
